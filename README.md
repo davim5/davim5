@@ -8,7 +8,7 @@
 - ReactJS
 - Typescript
 - Pré-processadores CSS (SASS)
-- styled componentes (CSS-in-JS)
+- styled components (CSS-in-JS)
 
 ### 🌱 Sempre buscando conhecimento!
 - Aprendendo Next.js
