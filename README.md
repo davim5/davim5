@@ -10,8 +10,9 @@
 - Pré-processadores CSS (SASS)
 - styled componentes (CSS-in-JS)
 
-### 🌱 Sempre buscando coonhecimento!
-- Aprendendo React Native
+### 🌱 Sempre buscando conhecimento!
+- Aprendendo Next.js
+- Planejando melhorar React Native
 
 
 
