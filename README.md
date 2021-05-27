@@ -11,7 +11,7 @@
 - styled components (CSS-in-JS)
 
 ### 🌱 Sempre buscando conhecimento!
-- Aprendendo Next.js
+- Aprendendo Next.js e Chakra UI
 - Planejando melhorar React Native
 
 
