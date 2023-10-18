@@ -4,6 +4,7 @@
 
 
 ### ⚡ Tecnologias e Skills
+- IBM Watson Assistant
 - HTML, CSS e JavaScript
 - ReactJS
 - Typescript
